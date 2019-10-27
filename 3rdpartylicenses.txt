@@ -2,7 +2,7 @@ rxjs
 Apache-2.0
                                Apache License
                          Version 2.0, January 2004
-                      https://www.apache.org/licenses/
+                      http://www.apache.org/licenses/
 
  TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -194,7 +194,7 @@ Apache-2.0
  you may not use this file except in compliance with the License.
  You may obtain a copy of the License at
 
-     https://www.apache.org/licenses/LICENSE-2.0
+     http://www.apache.org/licenses/LICENSE-2.0
 
  Unless required by applicable law or agreed to in writing, software
  distributed under the License is distributed on an "AS IS" BASIS,
@@ -210,7 +210,7 @@ Apache License
 
 Version 2.0, January 2004
 
-https://www.apache.org/licenses/ 
+http://www.apache.org/licenses/ 
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -375,7 +375,7 @@ Apache-2.0
 
                                  Apache License
                            Version 2.0, January 2004
-                        https://www.apache.org/licenses/
+                        http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -567,7 +567,7 @@ Apache-2.0
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       https://www.apache.org/licenses/LICENSE-2.0
+       http://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
@@ -591,7 +591,7 @@ rxjs-compat
 Apache-2.0
                                Apache License
                          Version 2.0, January 2004
-                      https://www.apache.org/licenses/
+                      http://www.apache.org/licenses/
 
  TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -783,7 +783,7 @@ Apache-2.0
  you may not use this file except in compliance with the License.
  You may obtain a copy of the License at
 
-     https://www.apache.org/licenses/LICENSE-2.0
+     http://www.apache.org/licenses/LICENSE-2.0
 
  Unless required by applicable law or agreed to in writing, software
  distributed under the License is distributed on an "AS IS" BASIS,
@@ -796,7 +796,7 @@ Apache-2.0
 @amcharts/amcharts3-angular
                                  Apache License
                            Version 2.0, January 2004
-                        https://www.apache.org/licenses/
+                        http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -988,7 +988,7 @@ Apache-2.0
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       https://www.apache.org/licenses/LICENSE-2.0
+       http://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
@@ -997,7 +997,7 @@ Apache-2.0
    limitations under the License.
 
 
-@angular/https
+@angular/http
 MIT
 
 @angular/fire/firestore
